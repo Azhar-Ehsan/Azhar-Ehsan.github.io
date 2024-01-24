@@ -19,10 +19,10 @@ Suggests:
 </pre>
 
 ## Installation
-You can install the package via devtools from [GitHub](https://github.com/zejiang-unsw/NPRED) with:
+You can install the package via devtools from [GitHub](https://github.com/singh-bohar/NPRED) with:
 
 ```r
-devtools::install_github("zejiang-unsw/NPRED")
+devtools::install_github("singh-bohar/NPRED")
 ```
 
 or via [CRAN](https://cran.r-project.org/web/packages/NPRED/index.html) with: 

@@ -27,10 +27,10 @@ Suggest:
 
 ## Installation
 
-You can install the package via devtools from [GitHub](https://github.com/zejiang-unsw/WQM) with:
+You can install the package via devtools from [GitHub](https://github.com/singh-bohar/WQM) with:
 
 ``` r
-devtools::install_github("zejiang-unsw/WQM", dependencies = TRUE)
+devtools::install_github("singh-bohar/WQM", dependencies = TRUE)
 ```
 
 or download via [figshare](https://doi.org/10.6084/m9.figshare.21903033)
