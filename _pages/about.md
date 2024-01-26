@@ -31,4 +31,4 @@ At IRI, Bohar is responsible for research and development in IRI’s sub-seasona
 *	Bohar Singh, Ben Cash, J. L. Kinter III, 2018: Indian Summer Monsoon Variability Forecasts in the North American Multimodel ensembles, Climate Dynamics, 1-14, DOI: 10.1007/s00382-018-4203-6
 
 ## For more information
-More info about Bohar Singh can be found in [CV](https://singh-bohar.github.io/cv/) or [downloaded CV](http://singh-bohar.github.io/files/CV.pdf).
+More info about Bohar Singh can be found in [CV](https://singh-bohar.github.io/cv/) or [downloaded CV](http://singh-bohar.github.io/files/BOHAR_SINGH_CV.pdf).

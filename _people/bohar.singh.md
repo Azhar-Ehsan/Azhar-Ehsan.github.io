@@ -9,4 +9,4 @@ collection: people
 <img src="/images/profile.jpg" alt="Avatar" class="avatar"/>
 
 TO BE ADDED
-More info about me can be found in [CV](https://singh-bohar.github.io/cv/) or [downloaded CV](http://singh-bohar.github.io/files/CV.pdf).
+More info about me can be found in [CV](https://singh-bohar.github.io/cv/) or [downloaded CV](http://singh-bohar.github.io/files/BOHAR_SINGH_CV.pdf).
