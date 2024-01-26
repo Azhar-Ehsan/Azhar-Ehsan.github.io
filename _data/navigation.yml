@@ -10,10 +10,7 @@ main:
     url: /projects/
 
   - title: "Software"
-    url: /software/
-    
-  - title: "Teaching"
-    url: /teaching/   
+    url: /software/  
     
   - title: "Blog"
     url: /year-archive/
