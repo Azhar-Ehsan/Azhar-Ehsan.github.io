@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bohar Singh"
+title: "Azhar Ehsan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is Bohar Singh's personal homepage. Please also refer to my [NOAA staff directory](https://nsd.rdc.noaa.gov/search?fs=1&ln=SIngh&fn=Bohar). 
+This is Azhar Ehsan's personal homepage. Please also refer to my [IRI staff directory](https://iri.columbia.edu/contact/staff-directory/azhar-ehsan/). 
 
 ## A short introduction
-Meet Bohar Singh, a climate scientist at the International Research Institute for Climate and Society (IRI) of Columbia University. His research is centered around unraveling the intricacies of climate system variability and delving into its predictability  across various  time scales. A significant focus of his work involves exploring  atmospheric and oceanic teleconnection patterns. Bohar is particularly keen on understanding the cross time scale interactions among low-frequency climate variabilities, such as El Niño Southern Oscillations (ENSO), Quasi-Biennial Oscillation (QBO), and Madden Julian Oscillations (MJO), and their pivotal role in sub-seasonal to seasonal climate prediction.
+Dr. Muhammad Azhar Ehsan (He/Him) is an Associate Research Scientist at IRI, focusing on climate variations and prediction at multiple timescales (Weeks to Years). He leads the IRI Climate Forecast and ENSO Briefing every month. A primary objective of Azhar’s research work is to better understand the sensitivity of regional climates to changing sea surface temperature patterns, finding sources of predictability, and study physical processes that underpin regional hydroclimatic situations using observations and model datasets. His current regional foci include the Middle East, Africa, and South Asia.
 
-At IRI, Bohar is responsible for research and development in IRI’s sub-seasonal forecast system.
+He held postdoctoral and researcher positions, at the International Center for Theoretical Physics (ICTP), Trieste Italy, Center of Excellence for Climate Change Research (CECCR), Jeddah Saudi Arabia, and Global Change Impacts Studies Center, Islamabad Pakistan prior to joining the IRI in 2019.
 
 <b>Research Highlights:</b>
 
