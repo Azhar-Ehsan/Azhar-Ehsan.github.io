@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Bohar Singh's personal homepage. Please also refer to my [homepage@IRI-Columbia](https://iri.columbia.edu/contact/staff-directory/bohar-singh/). 
+This is Bohar Singh's personal homepage. Please also refer to my [NOAA staff directory](https://nsd.rdc.noaa.gov/search?fs=1&ln=SIngh&fn=Bohar). 
 
 ## A short introduction
 Meet Bohar Singh, a climate scientist at the International Research Institute for Climate and Society (IRI) of Columbia University. His research is centered around unraveling the intricacies of climate system variability and delving into its predictability  across various  time scales. A significant focus of his work involves exploring  atmospheric and oceanic teleconnection patterns. Bohar is particularly keen on understanding the cross time scale interactions among low-frequency climate variabilities, such as El Niño Southern Oscillations (ENSO), Quasi-Biennial Oscillation (QBO), and Madden Julian Oscillations (MJO), and their pivotal role in sub-seasonal to seasonal climate prediction.
