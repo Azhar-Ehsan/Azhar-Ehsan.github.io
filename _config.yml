@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bohar Singh"
+title                    : "Azhar Ehsan"
 title_separator          : "-"
-name                     : &name "Bohar Singh"
+name                     : &name "Azhar Ehsan"
 description              : &description "Climate Researcher at IRI Columbia, New York, USA"
-url                      : https://singh-bohar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Azhar-Ehsan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "singh-bohar.github.io"
+repository               : "Azhar-Ehsan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
