@@ -26,4 +26,4 @@ He held postdoctoral and researcher positions, at the International Center for T
 *	Attada R, Ehsan MA, Pillai PA. “Evaluation of Potential Predictability of Indian Summer Monsoon Rainfall in ECMWF's Fifth Generation Seasonal Forecast System (SEAS5)”. Pure and Applied Geophysics (2022). https://link.springer.com/article/10.1007/s00024-022-03184-9
 
 ## For more information
-More info about Bohar Singh can be found in [CV](https://singh-bohar.github.io/cv/) or [download CV](http://singh-bohar.github.io/files/BOHAR_SINGH_CV.pdf).
+More info about Azhar Ehsan can be found in [CV](https://Azhar-Ehsan.github.io/cv/) or [download CV](http://Azhar-Ehsan.github.io/files/BOHAR_SINGH_CV.pdf).
