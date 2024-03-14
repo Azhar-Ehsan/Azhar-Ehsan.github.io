@@ -1,5 +1,5 @@
 # Azhar Ehsan
-This is Bohar Singh's personal [homepage](https://Azhar-Ehsan.github.io/).
+This is Azhar's personal [homepage](https://Azhar-Ehsan.github.io/).
 
 ## A short introduction
 
