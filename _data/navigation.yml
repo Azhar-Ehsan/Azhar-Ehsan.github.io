@@ -14,7 +14,10 @@ main:
     
   - title: "Blog"
     url: /year-archive/
-    
+
+    - title: "Kids-Corner"
+    url: /year-archive/
+
   - title: "CV"
     url: /cv/
 
