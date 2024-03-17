@@ -9,4 +9,4 @@ collection: people
 <img src="/images/DSC_7644.jpg" alt="Avatar" class="avatar"/>
 
 TO BE ADDED
-More info about me can be found in [CV](https://Azhar-Ehsan.github.io/cv/) or [downloaded CV](http://Azhar-Ehsan.github.io/files/BOHAR_SINGH_CV.pdf).
+More info about me can be found in [CV](https://Azhar-Ehsan.github.io/cv/) or [downloaded CV](http://Azhar-Ehsan.github.io/files/AZHAR_EHSAN_CV.pdf).
