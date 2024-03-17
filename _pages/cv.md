@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV](http://singh-bohar.github.io/files/AZHAR_EHSAN_CV.pdf)
+Download [CV](http://Azhar-Ehsan.github.io/files/AZHAR_EHSAN_CV.pdf)
 ======
 
 Education
